@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Manueel62
-- 👀 I’m interested in improving my programming skills
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on whatever, where I can be useful.
+- 👀 I’d like to contribute to useful and promising open-source software
+- 🌱 I’m currently attending a Data science & AI bachelor, willing to enhance my programming skills day by day
 
 <!---
 - 📫 How to reach me 
