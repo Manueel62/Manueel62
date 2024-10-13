@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Manueel62
-- 👀 I’d like to contribute to useful and promising open-source software
-- 🌱 I’m currently attending a Data science & AI bachelor, willing to enhance my programming skills day by day
 
 <!---
 - 📫 How to reach me 
